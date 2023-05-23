@@ -2,10 +2,10 @@
   "name": "js-project-books-t5",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://MelnykovSV.github.io/js-project-books-t5",
+  "homepage": "https://GoitStudentsWorks.github.io/js_75_MelnykovSV",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js-project-books-t5/"
+    "build": "parcel build src/*.html --public-url /js_75_MelnykovSV/"
   },
   "repository": {
     "type": "git",
